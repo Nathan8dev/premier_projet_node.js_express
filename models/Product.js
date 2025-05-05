@@ -10,5 +10,6 @@ const Product = mongoose.Schema(
 );
 
 module.exports = mongoose.model('Thing', Product);
+//changé depuis github
 
 //salut Git hub
